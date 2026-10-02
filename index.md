@@ -3,4 +3,4 @@ layout: normal
 title: Home
 ---
 
-Welcome to a fanmade PHOSIMP wiki!
+Welcome to a small, unofficial PHOSIMP wiki!
