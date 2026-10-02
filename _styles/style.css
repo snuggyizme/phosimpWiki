@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "DM Mono";
+    src: url("_assets/fonts/DMMono-Medium.ttf") format("truetype");
+}
+
+html {
+    font-family: "DM Mono", monospace;
+    background-color: #cccccc;
+}
+
+main {
+    max-width: 800px;
+    margin: 60px auto;
+    padding: 10px;
+    background-color: #ffffff;
+}
