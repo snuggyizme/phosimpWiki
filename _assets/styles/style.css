@@ -1,6 +1,6 @@
 @font-face {
     font-family: "DM Mono";
-    src: url("../_assets/fonts/DMMono-Medium.ttf") format("truetype");
+    src: url("../fonts/DMMono-Medium.ttf") format("truetype");
 }
 
 html, body {
